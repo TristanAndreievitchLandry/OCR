@@ -4,6 +4,8 @@
 
 # pip install pdf2image
 
+# pip install tqdm
+
 import os
 
 import pytesseract
